@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PROGRAMACION\\CAMPUS\\NET CORE\\csharp\\studentCsharp\\studentCsharp.csproj": {}
+  },
+  "projects": {
+    "E:\\PROGRAMACION\\CAMPUS\\NET CORE\\csharp\\studentCsharp\\studentCsharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROGRAMACION\\CAMPUS\\NET CORE\\csharp\\studentCsharp\\studentCsharp.csproj",
+        "projectName": "studentCsharp",
+        "projectPath": "E:\\PROGRAMACION\\CAMPUS\\NET CORE\\csharp\\studentCsharp\\studentCsharp.csproj",
+        "packagesPath": "C:\\Users\\IKER\\.nuget\\packages\\",
+        "outputPath": "E:\\PROGRAMACION\\CAMPUS\\NET CORE\\csharp\\studentCsharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\IKER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

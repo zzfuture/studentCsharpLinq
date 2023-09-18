@@ -1,0 +1,34 @@
+/home/skylab-114/Downloads/studentCsharp/bin/Debug/net7.0/studentCsharp
+/home/skylab-114/Downloads/studentCsharp/bin/Debug/net7.0/studentCsharp.deps.json
+/home/skylab-114/Downloads/studentCsharp/bin/Debug/net7.0/studentCsharp.runtimeconfig.json
+/home/skylab-114/Downloads/studentCsharp/bin/Debug/net7.0/studentCsharp.dll
+/home/skylab-114/Downloads/studentCsharp/bin/Debug/net7.0/studentCsharp.pdb
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.csproj.AssemblyReference.cache
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.AssemblyInfoInputs.cache
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.AssemblyInfo.cs
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.csproj.CoreCompileInputs.cache
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.dll
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/refint/studentCsharp.dll
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.pdb
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.genruntimeconfig.cache
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/ref/studentCsharp.dll
+/home/skylab-114/Downloads/studentCsharp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/skylab-114/Downloads/studentCsharp/obj/Debug/net7.0/studentCsharp.csproj.CopyComplete
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\bin\Debug\net7.0\studentCsharp.exe
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\bin\Debug\net7.0\studentCsharp.deps.json
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\bin\Debug\net7.0\studentCsharp.runtimeconfig.json
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\bin\Debug\net7.0\studentCsharp.dll
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\bin\Debug\net7.0\studentCsharp.pdb
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.csproj.AssemblyReference.cache
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.AssemblyInfoInputs.cache
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.AssemblyInfo.cs
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.csproj.CopyComplete
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.dll
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\refint\studentCsharp.dll
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.pdb
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\studentCsharp.genruntimeconfig.cache
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\studentCsharp\obj\Debug\net7.0\ref\studentCsharp.dll
