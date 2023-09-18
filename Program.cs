@@ -2,6 +2,7 @@
 using studentCsharp;
 using studentCsharp.Entities;
 string rutaJSON = "JSON/data.json";
+List<Estudiante> ListaEstudiantes;
 while (true) {
 Console.Clear();
 sbyte opcionPrincipal = MisFunciones.MenuPrincipal();
@@ -11,11 +12,15 @@ switch (opcionPrincipal)
         return;
     case 1:
         Console.Clear(); 
-        List<Estudiante> ListaEstudiantes = MisFunciones.RegistrarEstudiante();
+        ListaEstudiantes = MisFunciones.RegistrarEstudiante();
         Core.ExportJSON<List<Estudiante>>(ListaEstudiantes, rutaJSON);
         break;
     case 2:
-        MisFunciones.ModificarEstudiante();
+        ListaEstudiantes = MisFunciones.ModificarEstudiante();
+        Core.ExportJSON<List<Estudiante>>(ListaEstudiantes, rutaJSON);
+        break;
+    case 3:
+        
         break;
 }
 }

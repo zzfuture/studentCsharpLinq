@@ -108,7 +108,7 @@ namespace studentCsharp
                 }
                 ListaEstudiantes[ListaEstudiantes.IndexOf(EstudianteElegido)] = estudianteElegido;
                 // Console.Clear();
-
+                Console.Write("Presione cualquier tecla para volver al menu principal");
                 Console.ReadKey();
                 ciclo = false;
                 
@@ -141,5 +141,12 @@ namespace studentCsharp
             }
             return ListaEstudiantes;
         }
+        
+        // public static List<Estudiante> AgregarNotas(){
+        //     Console.WriteLine("{0,17} {1,-40} {2,10} {3,10} {4,10}", "Codigo Estudiante", "Nombre");
+        //     for 
+
+        //     return default;
+        // }
     }
 }
